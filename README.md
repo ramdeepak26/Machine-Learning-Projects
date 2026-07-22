@@ -5,3 +5,6 @@ This repository contains 3 machine learning projects:
 - Image Recognition using Deep Learning
 - Face Recognition System
 - Adult census data built using Python and TensorFlow/OpenCV.
+- Cartpole Environment
+- Movie Recommendation
+- Lunar Lander
